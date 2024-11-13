@@ -1,6 +1,6 @@
 <div style="text-align: center; color: #20FAFFFF;">
   <a href="https://github.com/ahmet40" style="color: #20FAFFFF; text-decoration: none;font-size: 20px;">
-    BABA Ahmet 👋
+    BABA Ahmet 
   </a>
     
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=20FAFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Bonjour%2C+tout+le+monde" alt="Typing SVG" /></a>
@@ -170,7 +170,7 @@
 <summary>📈 Statistiques GitHub</summary>
 <br/>
 
-![Ahmet GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmet40&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yannis's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ahmet40&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
 
 </details>
 <br/>
@@ -179,17 +179,7 @@
 <summary>🔥 Statistiques de la série</summary>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmet40&theme=dark)](https://git.io/streak-stats)
-
-</details>
-<br/>
-
-<details>
-<summary>📈 Graphique de l'activité </summary>
-<br/>
-
-[![Ahmet github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmet40&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet40&theme=dark">
 </details>
 <br/>
 
@@ -200,14 +190,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmet40&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Me contacter
+<div>
+   
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ahmet.baba@etu.univ-orleans.fr">
+    <img src="https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail" alt="email">
+</a>
+</div>
