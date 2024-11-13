@@ -30,9 +30,9 @@
     </ul>
 </div>
 
-<div style="font-size: 14px;">
-    <h2>Langages et outils</h2>
-    <table style="width: 100%;">
+## Langages et outils
+   
+<table style="width: 100%;">
     <tr>
         <td style="text-align: center;">
             <a href="https://skillicons.dev">
@@ -110,6 +110,12 @@
                 <br>Sqlite
             </a>
         </td>
+                <td style="text-align: center;">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=supabase" alt="suâbase icon">
+                <br>Supabase
+            </a>
+        </td>
         <td style="text-align: center;">
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=maven" alt="Maven icon">
@@ -120,12 +126,6 @@
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=docker" alt="Docker icon">
                 <br>Docker
-            </a>
-        </td>
-        <td style="text-align: center;">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=supabase" alt="suâbase icon">
-                <br>Supabase
             </a>
         </td>
     </tr>
@@ -163,8 +163,45 @@
     </tr>
 </table>
 
-</div>
+
+## 📊 Statistiques et Activité
+
+<details>
+<summary>📈 Statistiques GitHub</summary>
+<br/>
+
+![Ahmet GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmet40&show_icons=true&theme=radical)
+
+</details>
+<br/>
+
+<details>
+<summary>🔥 Statistiques de la série</summary>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmet40&theme=dark)](https://git.io/streak-stats)
+
+</details>
+<br/>
+
+<details>
+<summary>📈 Graphique de l'activité </summary>
+<br/>
+
+[![Ahmet github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmet40&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+<br/>
+
+<details>
+<summary>🏆 Trophées github</summary>
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmet40&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
 <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
