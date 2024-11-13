@@ -1,7 +1,7 @@
 <div style="text-align: center; color: #20FAFFFF;">
-  <a href="https://github.com/ahmet40" style="color: #20FAFFFF; text-decoration: none;font-size: 20px;">
+  <p style="text-align: center; color: #20FAFFFF; text-decoration: none;font-size: 20px;">
     BABA Ahmet 
-  </a>
+  </p>
     
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=20FAFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Bonjour%2C+tout+le+monde" alt="Typing SVG" /></a>
 </div>
