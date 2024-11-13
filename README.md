@@ -1,10 +1,14 @@
-## Hi there 👋
+<div style="text-align: center; color: #20FAFFFF;">
+  <a href="https://github.com/ahmet40" style="color: #20FAFFFF; text-decoration: none;font-size: 20px;">
+    BABA Ahmet 👋
+  </a>
+    
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=20FAFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Bonjour%2C+tout+le+monde" alt="Typing SVG" /></a>
+</div>
+
+
 
 <!--
-**ahmet40/ahmet40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
