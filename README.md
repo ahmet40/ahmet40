@@ -1,11 +1,9 @@
 #
-<div style="text-align: center; color: #20FAFFFF;">
-  <p style="text-align: center; color: #20FAFFFF; font-size: 30px;">
+<p style="text-align: center; color: #20FAFFFF; font-size: 30px;">
     BABA Ahmet 
-  </p>
-    
+ </p>
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=20FAFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Bonjour%2C+tout+le+monde" alt="Typing SVG" /></a>
-</div>
 
 <div style="font-size: 14px;">
     <h2>À propos de moi</h2>
