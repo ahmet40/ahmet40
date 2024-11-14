@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=20FAFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Bonjour%2C+tout+le+monde)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bonjour%2C+tout+le+monde;Je+suis+BABA+Ahmet+)](https://git.io/typing-svg)
 
 ## À propos de moi
 
-Je suis BABA Ahmet, actuellement étudiant en dernière année de Licence Informatique MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) à l’Université d’Orléans. Passionné par l'informatique, j'ai acquis des compétences solides en développement, analyse de données, et gestion de projets.
+Je suis actuellement étudiant en dernière année de Licence Informatique MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) à l’Université d’Orléans. Passionné par l'informatique, j'ai acquis des compétences solides en développement, analyse de données, et gestion de projets.
 
 ## Recherche de Stage et d'Alternance
 
